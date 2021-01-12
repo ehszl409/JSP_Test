@@ -9,3 +9,6 @@
 
 ### 1. 메인 페이지
 ![01 메인페이지](https://user-images.githubusercontent.com/73862305/104286707-c180d300-54f8-11eb-8dc9-38779c7a389f.png)
+----------------------------------------------------
+### 2. 회원가입 페이지
+![02 회원가입페이지](https://user-images.githubusercontent.com/73862305/104286818-eaa16380-54f8-11eb-9b21-7cf49039cdea.png)
